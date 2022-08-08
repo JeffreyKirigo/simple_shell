@@ -20,7 +20,6 @@ int _strspn(char *s, char *accept);
 int _strcmp(char *s1, char *s2);
 int _strncmp(const char *s1, const char *s2, size_t n);
 /* prototypes for the program */
-int main(void);
 
 
 #endif
