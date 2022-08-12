@@ -4,7 +4,7 @@
 
 ### Description
 
-Dafine and Jeffrey Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+Jeffrey and Dafine Shell is a basic UNIX command interpreter that emulates the functionality of the simple shell (sh). Additional features are also available. As a milestone project for ALX Africa Software Engineering, this program was written entirely in C.
 
 ### Installation
 
@@ -16,7 +16,7 @@ After compilation, the resulting program can run stand-alone, either in interact
 
 #### Interactive Mode
 
-In interactive mode, simply run the program and wait for the prompt to appear. From there, you can type commands freely, exiting with either the "exit" command or ctrl-D.
+Simply run the program in interactive mode and wait for the prompt to appear. From there, you can freely type commands, exiting with the "exit" command or ctrl-D.
 
 #### Non-Interactive Mode
 
