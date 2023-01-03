@@ -1,9 +1,7 @@
 
-# alx-low_level_programming
-# simple_shell
-=======
-# Dafine and Jeffrey Shell
-
+# alx-low_level_programming  
+# simple_shell  
+# Dafine and Jeffrey Shell  
 ![alt text](https://cdn.allthings.how/wp-content/uploads/2020/09/allthings.how-linux-shell-command-line-terminal-759x427.png)
 
 ### Description
