@@ -1,10 +1,6 @@
-<<<<<<< HEAD
+
 # alx-low_level_programming
 # simple_shell
-# simple_shell
-# alx-higher_level_programming
-# alx-higher_level_programming
-# alx-higher_level_programming
 =======
 # Dafine and Jeffrey Shell
 
@@ -53,5 +49,3 @@ Our shell has support for the following built-in commands:
 ### Credits
 
 All code written by [Dafine](https://github.com/Daph-4544) and [Jeffrey](https://github.com/JeffreyKirigo).
->>>>>>> 280709b8f3b49aea74608cf776df0e7e3f7248ae
-# AirBnB_clone
